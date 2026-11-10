@@ -1,0 +1,12 @@
+p{
+    font-weight: bolder;
+    display: flex;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChRMwlD2J7JCtJ5oHEGZoDWUmu4JLwDz3CnipXFWnpw&s=10");
+    background-size: cover;
+}
